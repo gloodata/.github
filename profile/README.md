@@ -7,16 +7,40 @@ No UI or LLM code required.
 
 ## Our World in Data Demography & Fertility Explorer with DuckDB
 
-[Watch](https://www.youtube.com/watch?v=fA06oOxKh3w) 🔹 [Get started](https://github.com/gloodata/extension-demography)
-
 ![Demography extension screenshot using DuckDB](https://gloodata.com/assets/img/product/ext-demography.webp)
+
+[Watch](https://www.youtube.com/watch?v=fA06oOxKh3w) 🔹 [Get started](https://github.com/gloodata/extension-demography)
 
 ## GitHub Repository Explorer with SQLite
 
-[Watch](https://www.youtube.com/watch?v=EV5E5gR5oKM) 🔹 [Get started](https://github.com/gloodata/extension-github-repo-explorer/)
-
 ![Demography extension screenshot using DuckDB](https://gloodata.com/assets/img/product/ext-github.webp)
 
+
+[Watch](https://www.youtube.com/watch?v=EV5E5gR5oKM) 🔹 [Get started](https://github.com/gloodata/extension-github-repo-explorer/)
+
+## Service Status Explorer from an HTTP API
+
+![Service status extension screenshot using an HTTP API](https://gloodata.com/assets/img/product/ext-service-status.webp)
+
+[Watch](https://www.youtube.com/watch?v=7fam5OxI-PU) 🔹 [Get started](https://github.com/gloodata/extension-service-status/)
+
+## Northwind Database Explorer from MySQL
+
+![Northwind extension screenshot using a MySQL](https://gloodata.com/assets/img/product/ext-mysql-northwind.webp)
+
+[Get started](https://github.com/gloodata/extension-mysql-northwind/)
+
+## Sakila Database Explorer from Postgres
+
+![Sakila extension screenshot using a Postgres](https://gloodata.com/assets/img/product/ext-postgres-sakila.webp)
+
+[Get started](https://github.com/gloodata/extension-postgres-sakila/)
+
+## Sales Database Explorer from Oracle Sample Schema
+
+![Sales database extension using Oracle](https://gloodata.com/assets/img/product/ext-oracle-sample-schemas.webp)
+
+[Get started](https://github.com/gloodata/extension-oracle-sample-schemas/)
 
 
 ## Everything you need to develop your AI-Native applications
