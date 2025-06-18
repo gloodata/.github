@@ -9,20 +9,20 @@ No UI or LLM code required.
 
 ![Demography extension screenshot using DuckDB](https://gloodata.com/assets/img/product/ext-demography.webp)
 
-[Watch](https://www.youtube.com/watch?v=fA06oOxKh3w) 🔹 [Get started](https://github.com/gloodata/extension-demography)
+[Watch](https://www.youtube.com/watch?v=fA06oOxKh3w) 🔹 [Get started](https://github.com/gloodata/extension-duckdb-demography)
 
 ## GitHub Repository Explorer with SQLite
 
 ![Demography extension screenshot using DuckDB](https://gloodata.com/assets/img/product/ext-github.webp)
 
 
-[Watch](https://www.youtube.com/watch?v=EV5E5gR5oKM) 🔹 [Get started](https://github.com/gloodata/extension-github-repo-explorer/)
+[Watch](https://www.youtube.com/watch?v=EV5E5gR5oKM) 🔹 [Get started](https://github.com/gloodata/extension-sqlite-github-repos/)
 
 ## Service Status Explorer from an HTTP API
 
 ![Service status extension screenshot using an HTTP API](https://gloodata.com/assets/img/product/ext-service-status.webp)
 
-[Watch](https://www.youtube.com/watch?v=7fam5OxI-PU) 🔹 [Get started](https://github.com/gloodata/extension-service-status/)
+[Watch](https://www.youtube.com/watch?v=7fam5OxI-PU) 🔹 [Get started](https://github.com/gloodata/extension-api-service-status/)
 
 ## Northwind Database Explorer from MySQL
 
